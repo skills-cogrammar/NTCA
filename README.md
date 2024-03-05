@@ -10,14 +10,14 @@ Welcome to the NTCA Bootcamp Repository! This hub is designed for our data scien
     - Lecture Slides
     - Open Class Code
     - Tutorials
-- DS
-  - GitHub Workshops
-  - Lecture Slides
-  - Tutorials
-- SE
-  - GitHub Workshops
-  - Lecture Slides
-  - Tutorials
+  - DS
+    - GitHub Workshops
+    - Lecture Slides
+    - Tutorials
+  - SE
+    - GitHub Workshops
+    - Lecture Slides
+    - Tutorials
 
 ## NTCA 💻
 
