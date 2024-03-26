@@ -1,0 +1,4 @@
+jack;write unit tests;you need to have 90% test converage;tim;2024-03-24;2024-03-24;None;None
+jack;write unit tests;you need to have 70% test converage;tim;2024-03-24;2024-03-24;None;None
+admin;write unit tests;you need to have 50% test converage;jack;2024-03-24;2024-03-24; None;None
+jack;write unit tests;you need to have 30% test converage;tim;2024-03-24;2024-03-24; None;None
